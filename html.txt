@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="main">
+            <div class="logo" >
+                <img src="logo.png">
+            </div>
+            <ul>
+                <li class="active"><a href="#">HOME</a></li>
+                <li><a href="#">BRANDS</a></li>
+                <li><a href="#">INFLUENCERS</a></li>
+                <li><a href="#">PRICING</a></li>
+                <li><a href="#">BLOGS</a></li>
+                <li><a href="#">CONTACT</a></li>
+            </ul>
+            <div class="mobail" >
+                <img src="mobail.png">
+            </div>
+        </div>
+        <div>
+            <div class="contain">
+                <h1>Discover.Connect.<br><span>Collaborate.</span></h1>
+                <p class="par">An ecosystem for Social media Influencers and Brands.</p>
+                <a  class="btn" href="#">I'M INFLUENCER</a>
+                <a  class="btn" href="#">I'M BRAND</a>
+            </div>
+        </div>
+        
+    </header>
+</body>
+</html>
